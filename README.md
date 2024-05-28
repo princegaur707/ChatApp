@@ -1,3 +1,3 @@
 "# ChatApp" 
 
-App link: https://talkie-64o4.onrender.com
+website link: https://talkie-64o4.onrender.com
